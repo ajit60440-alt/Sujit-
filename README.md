@@ -1,4 +1,23 @@
- @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sujit - Stylish Gamer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <img src="your-photo.jpg" alt="Sujit" class="profile" />
+    <h1>Sujit</h1>
+    <p>Hi, I'm Sujit — a stylish creator & gamer. I share new game updates and APKs, including new modes!</p>
+    <div class="buttons">
+      <a href="https://www.instagram.com/__unlucky__sujit__?igsh=MWRkbHE3bmVreXFlNg==" target="_blank" class="btn instagram">Instagram</a>
+      <a href="#" class="btn download">Download New APKs</a>
+    </div>
+  </div>
+</body>
+</html> @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
 
 body {
   margin: 0;
